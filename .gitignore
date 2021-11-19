@@ -29,3 +29,7 @@ build/
 
 ### VS Code ###
 .vscode/
+Tool/.DS_Store
+Clash/Providers/.DS_Store
+Clash/.DS_Store
+.DS_Store
